@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\store\\API\\API.csproj": {}
+    "C:\\Users\\regin_ml7o3se\\Desktop\\Store\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\store\\API\\API.csproj": {
+    "C:\\Users\\regin_ml7o3se\\Desktop\\Store\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\regin_ml7o3se\\Desktop\\store\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\regin_ml7o3se\\Desktop\\Store\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\regin_ml7o3se\\Desktop\\store\\API\\API.csproj",
+        "projectPath": "C:\\Users\\regin_ml7o3se\\Desktop\\Store\\API\\API.csproj",
         "packagesPath": "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\regin_ml7o3se\\Desktop\\store\\API\\obj\\",
+        "outputPath": "C:\\Users\\regin_ml7o3se\\Desktop\\Store\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\regin_ml7o3se\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\regin_ml7o3se\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
